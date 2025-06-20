@@ -1,4 +1,4 @@
-# Introduction to Python course  (JetBrains Academy version) [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+# Python course  (JetBrains Academy version) [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
   <p>This is an introductory Python course by JetBrains Academy. Python is a leading language for data analysis, AI, ML, automation, and more. The course is designed for individuals with little to no programming experience who want to start learning Python.</p>
 
 
